@@ -2,8 +2,8 @@
 <widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="gcians1234567"  version = "1.2.3" versionCode = "18" >
 
 
-        <name>GCIANS</name>
-        <description>GC SWS Mobile Application</description>
+        <name>GC OSWS</name>
+        <description>GC OSWS Mobile Application</description>
         <author>doubleQuote</author>        
 		<gap:platforms>
                 <gap:platform name="ios" />
